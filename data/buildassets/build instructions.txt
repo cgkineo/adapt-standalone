@@ -1,0 +1,8 @@
+To make the executable use the files in this folder
+
+1. download http://www.vbsedit.com/
+2. open "Run Course.vbs"
+3. File > Convert into Executable
+4. Select Adapt.ico as icon
+5. Select mode : "Run in GUI mode like WSript"
+6. You're done!

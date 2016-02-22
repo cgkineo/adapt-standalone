@@ -1,0 +1,19 @@
+{
+  "name": "adapt-standalone",
+  "version": "0.1.1",
+  "custom": false,
+  "description": "Windows Standalone Server",
+  "scripts": {},
+  "author": "Oliver Foster",
+  "license": "GPL-3.0",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "~4.13.3",
+    "open": "0.0.5",
+    "serve-index": "^1.7.3",
+    "serve-static": "^1.10.0",
+    "source-map": "^0.4.4",
+    "underscore": "^1.8.3"
+  },
+  "repository": "https://github.com/cgkineo/adapt-standalone"
+}
