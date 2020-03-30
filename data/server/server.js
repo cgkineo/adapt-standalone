@@ -1,6 +1,6 @@
 var serverRoot = "../www";
 var serverPort = 3000;
-var serverIndexFile = "main.html";
+var serverIndexFile = "index.html";
 
 
 var _ = require("underscore");
